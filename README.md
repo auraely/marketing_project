@@ -1,2 +1,2 @@
-# week1_challenge
+# marketing_project
 weekly challenge Html and Css
